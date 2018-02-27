@@ -1,6 +1,6 @@
 package base
 
-import "jvmgo/ch06/rtdata"
+import "jvmgo/ch05/rtdata"
 
 // 指令操作: 获取操作数 -> 执行
 type Instruction interface {
